@@ -1,0 +1,82 @@
+                                                          BANCO De LOS CLIENTES Tp
+                                           LISTADO DE LAS CUENTAS DE AHORROS DE NUESTROS CLIENTES
+============================================================================================================================================
+No.  CUENTA     CLIENTE                                                  SALDO         SOBREGIRADA              FECHA DEL ULTIMO SOBREGIRO
+01)  11379018   ESCALANTE VERGEL NESTOR MANUEL                         95218.78            NO                         --/--/----
+02)  12807889   CUBA NARVAEZ PAUL JOHN                                -35982.33            SI                         17/04/2026
+03)  14398081   PEREZ FARFAN RICHARD SANDRO                            28051.51            SI                         21/01/2026
+04)  15544912   CORRALES ESCALANTE ELOISA YLIANA                      -60837.88            SI                         11/01/2025
+05)  15792945   CHUMPITAZ ALCOCER ANGEL ERICK                          82683.41            SI                         12/12/2025
+06)  16015071   SUELDO PEREZ DIANA GLENDA                              52733.00            NO                         --/--/----
+07)  16721636   LEE VASQUEZ JENNY                                     165879.42            NO                         --/--/----
+08)  18027503   ESCALANTE RARAZ BLANCA                                 44993.46            NO                         --/--/----
+09)  18923782   DIAZ TANG ENRIQUE                                      98804.85            NO                         --/--/----
+10)  18990676   GUEVARA YOSHINARI MAGDA CARMELA                        25379.19            SI                         29/09/2025
+11)  19343103   AYALA CASTILLO ERICKA OFELIA                          154600.73            NO                         --/--/----
+12)  19661400   BENITES TSUKAZAN LUZ LOURDES                          174123.68            NO                         --/--/----
+13)  21356056   MORI TOKESHI ALONSO                                   112851.27            NO                         --/--/----
+14)  24157763   YINO AVILA ANGEL EDGAR                               -155420.79            SI                         08/01/2026
+15)  24376652   ZUNIGA RIVERO NICOLAS                                 -49287.51            SI                         19/06/2025
+16)  30626250   TRIGUEROS PORTUGAL ARTURO FAUSTO                      -20116.10            SI                         08/06/2025
+17)  32229412   PENA SUAREZ GLENDA MARGOT                               4495.96            SI                         30/12/2025
+18)  34277177   CERNA PAIRAZAMAN FIORELLA MARGOT                       10290.54            SI                         12/08/2025
+19)  35894393   LA HAZA CABRERA ALBERTO DE                             24679.05            SI                         12/12/2025
+20)  35968268   VILCA JUSTINO MELVIN                                   91981.44            NO                         --/--/----
+21)  36041699   ZARATE PEREZ ALEXANDER                                 24772.10            SI                         01/01/2026
+22)  38099749   VEGA GARCIA JANET REBECA                               -1379.70            SI                         21/11/2025
+23)  38507738   ZAVALETA VILCA ERICKA ELEONOR                          37253.25            SI                         04/12/2025
+24)  41186299   SERRANO IBEROS FRANCISCO                               73178.26            NO                         --/--/----
+25)  41752551   MONTERO MONTERO ANNIE                                -102125.52            SI                         04/02/2025
+26)  45974428   YINO FIGUEROA MAGDA KARINA                             41003.75            NO                         --/--/----
+27)  46261631   AMEZQUITA EPIQUEN EVERT ROBERTO                       -26765.34            SI                         06/04/2026
+28)  46751817   MEREL ARCA SILVANA                                     31624.43            NO                         --/--/----
+29)  48980155   VASQUEZ SHIRAKAWA JULIAN ALFONSO                      122615.35            SI                         17/01/2025
+30)  49588036   MARTINEZ CRUZ EVERT RONY                               49264.02            SI                         26/03/2026
+31)  49777317   RETAMOSO TOKESHI GUSTAVO                              -34303.42            SI                         07/05/2025
+32)  50323749   LANDEO ACUNA KARINA                                    99313.37            SI                         22/06/2025
+33)  50753932   DURAND LOPEZ EMIGDIO                                   97580.96            NO                         --/--/----
+34)  50954782   SAAVEDRA CONTRERAS RONY JOHAN                          19225.51            SI                         10/07/2025
+35)  54193859   CABELLO SANTISTEBAN MARINA VALENTINA                   66335.27            SI                         24/07/2025
+36)  54437780   WONG MARTEL MADELEINE                                  22906.44            NO                         --/--/----
+37)  55744475   MOSCOSO LAURA JANET VALENTINA                          90199.28            SI                         26/03/2026
+38)  56325275   AYALA FARFAN LUZ REBECA                                26523.44            SI                         27/12/2025
+39)  56516447   EGUSQUIZA SOMA JESSICA                                127901.06            NO                         --/--/----
+40)  57121426   SOLIS VILCA JULIAN                                    103768.39            NO                         --/--/----
+41)  58293594   RUIZ GORDILLO CAROLA ERIKA                            -56300.61            SI                         20/07/2025
+42)  58477632   LARRIEGA VELASQUEZ MOISES ROBERTO                     -99781.16            SI                         03/10/2025
+43)  59754237   FUENTES LOPEZ NESTOR FAUSTO                            -6960.46            SI                         08/08/2025
+44)  61438463   CORTEZ LEIVA SURAMI SILVIA                           -168628.78            SI                         27/10/2025
+45)  62318408   DE LA CUBA ADRIA QUIO                                  25568.07            SI                         23/12/2025
+46)  62490848   GAMARRA TABORI PAUL RONAL                              -8392.00            SI                         22/03/2026
+47)  62647143   NORABUENA YEP HENRRY                                   94790.43            NO                         --/--/----
+48)  64584439   PAREDES EPIQUEN ISRAEL MARTIN                          31343.85            SI                         30/04/2026
+49)  64627562   ZEGARRA YINO REBECA                                    65818.47            NO                         --/--/----
+50)  65453860   ROSEMBERG ROSEMBERG JAIR ALONSO                        55639.21            SI                         20/04/2025
+51)  66924485   YINO PENA ZKENIA SURAMI                               -92852.89            SI                         24/01/2026
+52)  67053439   JUSTINO MARTINEZ ENRIQUE                               47408.81            SI                         06/04/2026
+53)  67392071   SUAREZ MORALES AMARU                                   85075.26            SI                         03/11/2025
+54)  69702125   CORTEZ SEGURA CARMELA INES                             -3619.12            SI                         22/04/2026
+55)  70642877   ARANDA TORREALBA JENNY INES                            96419.23            SI                         27/10/2025
+56)  71839426   DIAZ MOYA ELIA ANNIE                                   97048.05            NO                         --/--/----
+57)  74183799   GAMARRA CHAVARRI ZKENIA                               -14580.32            SI                         18/07/2025
+58)  75392636   LOVERA IBEROS RAUL ALVARO                              34602.05            NO                         --/--/----
+59)  75426881   TORREALBA SALAZAR RONAL EVERT                         103740.70            SI                         05/05/2026
+60)  77555095   SHIRAKAWA ORTEGA ANGEL                                -31233.19            SI                         18/11/2024
+61)  79045799   VALVERDE PINTO EDILBERTO                              -16473.41            SI                         21/11/2025
+62)  80009970   BENAVENTE AYALA VIRGINIA IRMA                         145235.59            NO                         --/--/----
+63)  80479769   MALCA SAAVEDRA DORIS MILAGROS                         -90325.78            SI                         31/05/2025
+64)  81730833   MERCADO QUIROGA CHRISTIAN                              12319.88            SI                         11/09/2025
+65)  81890953   EGUSQUIZA BERROCAL DORIS NANCY                        -44503.01            SI                         13/01/2025
+66)  82950403   NORABUENA PAIRAZAMAN JULIAN                            19848.36            SI                         07/05/2025
+67)  83505777   SUCHERO AGUIRRE ADOLFO                                 29269.60            NO                         --/--/----
+68)  84455439   CHAVEZ PRADO SILVANA                                   75415.53            NO                         --/--/----
+69)  85374516   VILLA YALLICO TATIANA NANCY                             3096.35            SI                         11/06/2025
+70)  86624675   SEDANO IBEROS JAIR                                     52720.85            NO                         --/--/----
+71)  89064460   GUEVARA MIYAKE MILENA                                 -47441.80            SI                         21/01/2026
+72)  90334731   QUIROGA LAURA ANNIE                                    36918.67            NO                         --/--/----
+73)  94017458   MIRANDA HUAYANAY RHONY                                -36850.59            SI                         23/09/2025
+74)  94909241   FUENTES GAMARRA HUGO                                  -16702.50            SI                         15/11/2025
+75)  96248134   LAM TORO ALEX                                            748.45            SI                         22/04/2026
+76)  99718207   CHANG ZUNIGA GLENDA                                     3975.55            SI                         06/01/2026
+77)  99819074   SAONA ARIAS ALBERTO                                    56230.64            SI                         28/01/2025
+============================================================================================================================================

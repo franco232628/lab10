@@ -1,0 +1,29 @@
+                                                          BANCO De LOS CLIENTES Tp
+                                           LISTADO DE LAS CUENTAS DE AHORROS DE NUESTROS CLIENTES
+============================================================================================================================================
+No.  CUENTA     CLIENTE                                                  SALDO         SOBREGIRADA              FECHA DEL ULTIMO SOBREGIRO
+01)  12807889   CUBA NARVAEZ PAUL JOHN                                -35982.33            SI                         17/04/2026
+02)  15544912   CORRALES ESCALANTE ELOISA YLIANA                      -60837.88            SI                         11/01/2025
+03)  24157763   YINO AVILA ANGEL EDGAR                               -155420.79            SI                         08/01/2026
+04)  24376652   ZUNIGA RIVERO NICOLAS                                 -49287.51            SI                         19/06/2025
+05)  30626250   TRIGUEROS PORTUGAL ARTURO FAUSTO                      -20116.10            SI                         08/06/2025
+06)  38099749   VEGA GARCIA JANET REBECA                               -1379.70            SI                         21/11/2025
+07)  41752551   MONTERO MONTERO ANNIE                                -102125.52            SI                         04/02/2025
+08)  46261631   AMEZQUITA EPIQUEN EVERT ROBERTO                       -26765.34            SI                         06/04/2026
+09)  49777317   RETAMOSO TOKESHI GUSTAVO                              -34303.42            SI                         07/05/2025
+10)  58293594   RUIZ GORDILLO CAROLA ERIKA                            -56300.61            SI                         20/07/2025
+11)  58477632   LARRIEGA VELASQUEZ MOISES ROBERTO                     -99781.16            SI                         03/10/2025
+12)  59754237   FUENTES LOPEZ NESTOR FAUSTO                            -6960.46            SI                         08/08/2025
+13)  61438463   CORTEZ LEIVA SURAMI SILVIA                           -168628.78            SI                         27/10/2025
+14)  62490848   GAMARRA TABORI PAUL RONAL                              -8392.00            SI                         22/03/2026
+15)  66924485   YINO PENA ZKENIA SURAMI                               -92852.89            SI                         24/01/2026
+16)  69702125   CORTEZ SEGURA CARMELA INES                             -3619.12            SI                         22/04/2026
+17)  74183799   GAMARRA CHAVARRI ZKENIA                               -14580.32            SI                         18/07/2025
+18)  77555095   SHIRAKAWA ORTEGA ANGEL                                -31233.19            SI                         18/11/2024
+19)  79045799   VALVERDE PINTO EDILBERTO                              -16473.41            SI                         21/11/2025
+20)  80479769   MALCA SAAVEDRA DORIS MILAGROS                         -90325.78            SI                         31/05/2025
+21)  81890953   EGUSQUIZA BERROCAL DORIS NANCY                        -44503.01            SI                         13/01/2025
+22)  89064460   GUEVARA MIYAKE MILENA                                 -47441.80            SI                         21/01/2026
+23)  94017458   MIRANDA HUAYANAY RHONY                                -36850.59            SI                         23/09/2025
+24)  94909241   FUENTES GAMARRA HUGO                                  -16702.50            SI                         15/11/2025
+============================================================================================================================================
