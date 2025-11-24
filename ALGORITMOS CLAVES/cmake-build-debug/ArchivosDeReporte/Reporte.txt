@@ -1,0 +1,134 @@
+                    REPORTE DE PRODUCTOS DE HELENA
+======================================================================
+CODIGO DEL PRODUCTO  STOCK DEL PRODUCTO  NOMBRE DEL PRODUCTO
+----------------------------------------------------------------------
+     49823450               222               ACEITE 1L
+     51273847               245               ACEITE 1L
+     63826716               924               ACEITE 1L
+     81286543               161               ACEITE 1L
+     83863413               100               ACEITE 1L
+     96728778               100               ACEITE 1L
+     12614124               114               ACEITUNAS 200G
+     27758595               740               ACEITUNAS 200G
+     45833156               718               ACEITUNAS 200G
+     60929647               276               ACEITUNAS 200G
+     62401521               271               ACEITUNAS 200G
+     81971316               127               ACEITUNAS 200G
+     32097220               388               ARROZ 1KG
+     81182864               940               ARROZ 1KG
+     84252722               881               ARROZ 1KG
+     93016315               906               ARROZ INTEGRAL 1KG
+     23556182               389               ATúN LATA
+     82070937               768               ATúN LATA
+     66629388                32               AZúCAR 1KG
+     77827638               616               AZúCAR 1KG
+     95822412               114               AZúCAR 1KG
+     58718453               899               BATERíAS AA X4
+     70855700               650               BATERíAS AA X4
+     97529405               553               BATERíAS AA X4
+     78159587                82               BOMBILLA LED
+     11980765               992               CAFé 250G
+     55176955               104               CAFé 250G
+     20709497               875               CARNE VACUNA 1KG
+     22575562               223               CARNE VACUNA 1KG
+     46913810               250               CARNE VACUNA 1KG
+     94705205                60               CARNE VACUNA 1KG
+     84593961               677               CEPILLO DENTAL
+     85329037               203               CEPILLO DENTAL
+     58966946               166               CEREAL 500G
+     88320463               408               CEREAL 500G
+     23009833               674               CHOCOLATE 100G
+     31429110               714               CHOCOLATE 100G
+     71070189               292               CHOCOLATE 100G
+     17270733               689               DETERGENTE 1L
+     52235350               217               DETERGENTE 1L
+     63551839               687               DETERGENTE 1L
+     14308421               824               FRIJOLES 500G
+     18181586               765               FRIJOLES 500G
+     39476249               701               FRIJOLES 500G
+     81498611               784               GALLETAS
+     10872248               777               GEL ANTIBACTERIAL
+     20117988               453               GEL ANTIBACTERIAL
+     89089901               284               GEL ANTIBACTERIAL
+     19046318               927               HARINA 1KG
+     35529407               549               HELADO 1L
+     66306997               225               HELADO 1L
+     24665841               254               HUEVOS DOCENA
+     58537831               591               HUEVOS DOCENA
+     75319931               158               HUEVOS DOCENA
+     78137358               623               HUEVOS DOCENA
+     19335534                46               JABóN EN BARRA
+     41944441               285               JABóN EN BARRA
+     57683626               214               JABóN EN BARRA
+     34941004                70               KETCHUP 500G
+     61642594               390               KETCHUP 500G
+     80823176               893               KETCHUP 500G
+     96977837                73               KETCHUP 500G
+     39557077                 7               LECHE 1L
+     43273328               230               LECHE 1L
+     63843426               274               LECHE 1L
+     66661351               610               LECHE 1L
+     75228535               835               LECHE 1L
+     25374874               698               LECHE EN POLVO 400G
+     77005685               405               LECHE EN POLVO 400G
+     64038913               745               LENTEJAS 500G
+     75151231               219               LEVADURA 50G
+     87736262               753               LEVADURA 50G
+     95225343               175               LEVADURA 50G
+     97226012               718               LEVADURA 50G
+     55667651               284               MANTEQUILLA 200G
+     96282117               469               MANTEQUILLA 200G
+     17507864               234               MASCARILLA
+     38317637               935               MAYONESA 250G
+     42329237               899               MAYONESA 250G
+     36998038               730               MAíZ 500G
+     15831819               747               MERMELADA 250G
+     42857966               167               MERMELADA 250G
+     27232410               675               MIEL 250G
+     42614537               803               MIEL 250G
+     86644106               590               MIEL 250G
+     17672593                51               MOSTAZA 200G
+     55377076                21               MOSTAZA 200G
+     83197857                89               MOSTAZA 200G
+     84346088               235               MOSTAZA 200G
+     16323852               881               PAN INTEGRAL
+     79467853               462               PAN INTEGRAL
+     96028436               348               PAN INTEGRAL
+     31682744               552               PAPEL HIGIéNICO
+     45551614               142               PASTA 500G
+     47385696               473               PASTA 500G
+     20570592                87               PASTA DENTAL 90G
+     70897765                 3               PASTA DENTAL 90G
+     72682989               884               PASTA DENTAL 90G
+     82383095               773               PASTA DENTAL 90G
+     30513739               382               PAñALES
+     38898923               980               PAñALES
+     76238574                93               PAñALES
+     39436733               141               PIMIENTA 50G
+     45351479               995               PIMIENTA 50G
+     54349361                72               PIMIENTA 50G
+     66792612               987               POLLO 1KG
+     75181648               492               POLLO 1KG
+     60119651               448               PURé DE PAPAS
+     88461803               438               PURé DE PAPAS
+     30514014               642               QUESO 250G
+     49392920               445               QUESO 250G
+     41726318               170               REFRESCO 500ML
+     57553014               433               REFRESCO 500ML
+     90388981               331               SAL 500G
+     56164955               618               SALSA DE TOMATE 400G
+     72820592               541               SALSA DE TOMATE 400G
+     83793389               169               SALSA DE TOMATE 400G
+     85345555               551               SALSA DE TOMATE 400G
+     33978249               519               SALSA SOJA 200ML
+     73993471               514               SALSA SOJA 200ML
+     40587988               791               SARDINAS LATA
+     60992979                99               SOPA INSTANTáNEA
+     24282218               891               TOALLAS PAPEL
+     49349722               849               TOALLAS PAPEL
+     50056581               861               TOALLAS PAPEL
+     28728463               754               Té 100G
+     64634663               194               Té 100G
+     60806024                80               VINAGRE 500ML
+     95899313               704               VINAGRE 500ML
+     28814949               432               YOGUR 125G
